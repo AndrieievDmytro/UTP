@@ -1,0 +1,15 @@
+{
+	"folders": [
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"java.project.referencedLibraries": [
+			"lib/**/*.jar",
+			"C:\\Program Files\\Java\\junit5",
+			"c:\\Program Files\\Java\\JUnit4\\hamcrest-core-1.3.jar",
+			"c:\\Program Files\\Java\\JUnit4\\junit-4.13.1.jar"
+		]
+	}
+}
